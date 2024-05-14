@@ -1,4 +1,4 @@
-public class Main {
+public class TypeCasting{
     public static void main(String[] args) {
         int a = 2;
         String str = String.valueOf(a);
