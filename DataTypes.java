@@ -3,5 +3,6 @@ public class DataTypes {
         // integer data types
         int var=20;
         System.out.println(var);
+        System.out.print(var);
     }
 }
