@@ -20,12 +20,9 @@ public class Userinput {
        } else {
         System.out.println("not in 70");
        }
-        
+       System.out.println(); 
 
-
-       if (a>b) {
-        
-       }
 
     }
+    
 }
