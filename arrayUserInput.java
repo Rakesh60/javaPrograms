@@ -14,7 +14,7 @@ public class arrayUserInput {
         }
 
         for (int i : arr) {
-s
+
             System.out.println(i);
 
         }
