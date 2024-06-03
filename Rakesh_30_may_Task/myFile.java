@@ -9,6 +9,7 @@ public class myFile {
             File a =new File("abc.txt");
             try (Scanner b = new Scanner(a)) {
                 String data=b.nextLine();
+                
                 System.out.println(data);
             }
            
